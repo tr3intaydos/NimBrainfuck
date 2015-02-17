@@ -6,4 +6,4 @@ description   = "Brainfuck interpreter (howistart.org)"
 license       = "BSD"
 
 [Deps]
-Requires: "nim >= 0.10.0"
+Requires: "nim >= 0.10.0, docopt >= 0.1.0"
